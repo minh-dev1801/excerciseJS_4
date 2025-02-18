@@ -1,4 +1,4 @@
-# Main Exercise JS 3
+# Main Exercise JS 4
 
 ![Demo](/assets/img/demo.PNG)
 
@@ -27,7 +27,7 @@ Dự án sử dụng mô hình **MVC** (Model - View - Controller) để tổ ch
 1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/minh-dev1801/exercise_js_2.git
+   git clone https://github.com/minh-dev1801/excerciseJS_4.git
 
    ```
 
